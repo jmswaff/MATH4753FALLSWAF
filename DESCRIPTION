@@ -1,0 +1,10 @@
+Package: MATH4753FALLSWAF
+Type: Package
+Title: A collection of functions from MATH4753
+Version: 0.1.0
+Author: James Swafford
+Maintainer: James Swafford <jamesswafford@ou.edu>
+Description: These functions come from labs used in MATH4753.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
